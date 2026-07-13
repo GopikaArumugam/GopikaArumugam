@@ -38,3 +38,6 @@ I'm an AI & Machine Learning student passionate about building intelligent appli
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="35" height="35" alt="LeetCode"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GopikaArumugamE&label=Profile%20Views&color=8A2BE2&style=flat" alt="Profile Views" />
+</p>
